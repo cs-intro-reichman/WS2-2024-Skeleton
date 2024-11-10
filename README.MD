@@ -20,7 +20,7 @@
 ### IsValidNumber.java
 
 ## Part 2.2 - Loop exercises
-### DecendingOrderFromTenTwoOne.java
+### DecendingOrderFromTenToOne.java
 ### AllEvensUpToTwenty.java
 ### FirstTenPowOfTwo.java
 ### IsValidNumber1.java
